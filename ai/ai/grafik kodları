@@ -1,0 +1,7 @@
+
+plt.figure(figsize=(12, 6))
+plt.scatter(values, fitnessArr, color = 'red')
+plt.title('Kilo Boy Oranı Grafiği3')
+plt.xlabel('Kilo')
+plt.ylabel('Boy')
+plt.show()
